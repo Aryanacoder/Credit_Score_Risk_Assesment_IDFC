@@ -188,10 +188,3 @@ Libraries used:
 
 ---
 
-This README provides a comprehensive overview of your project, making it easy for potential employers or collaborators to understand your work and its significance! Let me know if you'd like further customization or enhancements!
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/30676447/d93b1c50-6488-4cc0-96e4-97eaf5af7a9b/Documentation.pdf
-
----
-Answer from Perplexity: pplx.ai/share
