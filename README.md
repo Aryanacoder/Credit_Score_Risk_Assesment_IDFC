@@ -115,7 +115,7 @@ pip install -r requirements.txt
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/credit-card-default-prediction.git
+git clone https://github.com/Aryanacoder/credit-card-default-prediction.git
 cd credit-card-default-prediction
 ```
 
